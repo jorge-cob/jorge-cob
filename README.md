@@ -1,7 +1,8 @@
 # Welcome to my Github!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.zohan.tech/api?username=jorge-cob&show_icons=true&locale=en&theme=gruvbox&include_all_commits=true&hide=contribs&hide_rank=true" alt="jorge-cob" /></p>
-<p>&nbsp;<img align="center" style="width:327px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=gruvbox" alt="jorge-cob" /></p>
+<p><img align="center" style="height:170px" src="https://github-readme-stats.zohan.tech/api?username=jorge-cob&show_icons=true&locale=en&theme=gruvbox&include_all_commits=true&hide=contribs&hide_rank=true" alt="jorge-cob" /><img align="left" style="height:170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=gruvbox" alt="jorge-cob" /></p>
+<p>&nbsp;</p>
+
 <p>&nbsp;</p>
 
 ## 🔨 Languages & Frameworks & Skills ⭐️:
