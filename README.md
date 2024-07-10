@@ -6,7 +6,6 @@
 
 ## 🔨 Languages & Frameworks & Skills ⭐️:
 
-<p>&nbsp;</p>
 
 
 ### Web Design & Development 💻:
